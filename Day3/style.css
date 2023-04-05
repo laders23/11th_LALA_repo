@@ -1,0 +1,112 @@
+html {
+    background-color: #A2B99F;
+}
+
+header {
+    width: 1920px;
+    height: 200px;
+}
+
+.Head {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 3px solid black;
+    font-size: 40px;
+}
+
+.Main_Title {
+    font-size: 80px;
+}
+
+main {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 700px;
+}
+
+.login {
+    display: grid;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ID_Box_Size {
+    margin-top: 30px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+.Password_Box_Size {
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.Sign {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 200px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.Sign_Up {
+    text-align: center;
+    width: 65px;
+    height: 30px;
+}
+
+.Sign_In {
+    text-align: center;
+    width: 65px;
+    height: 30px;
+}
+
+.forget_password {
+    margin: 10px 30px 10px 30px;
+    display: grid;
+    text-decoration: underline;
+}
+
+.Naver_Login {
+    background-color: #0AC541;
+    color: #FFFFFF;
+    width: 200px;
+    height: 60px;
+}
+
+.Kakao_Login {
+    background-color: #FCED4F;
+    width: 200px;
+    height: 60px;
+    margin-top: 10px;
+}
+
+.Apple_Login {
+    background-color: #333333;
+    width: 200px;
+    height: 60px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+
+.Google_Login {
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 60px;
+    margin-top: 10px;
+}
+
+footer {
+    height: 180px;
+}

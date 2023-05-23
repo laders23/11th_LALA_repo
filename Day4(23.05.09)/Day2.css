@@ -1,0 +1,35 @@
+.Layout {
+    border: 1px solid black;
+    width: 300px;
+    height: 550px;
+    border-radius: 10px;
+    background-color: khaki;
+}
+
+.Title {
+    color: black;
+    font-size: 40px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-weight: bold;
+    text-align: center;
+}
+
+.List {
+    margin-top: 10px;
+    background-color: #B5FFFF;
+    border: 1px solid black;
+}
+
+.Inputbox {
+    text-align: center;
+}
+
+.List_1 {
+    border: 1px solid black;
+    width: 30%;
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: #2786B2
+}
